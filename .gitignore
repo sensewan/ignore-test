@@ -1,0 +1,3 @@
+# properties 제외하기
+
+src/**/*.properties
